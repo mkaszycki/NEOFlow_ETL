@@ -1,3 +1,8 @@
+![Widok dashboardu NEO](dashboard_screen.png)
+
+
+
+
 # NEOFlow_ETL
 
 NEOFlow_ETL to zautomatyzowany rurociąg danych, który śledzi obiekty bliskie Ziemi (NEO). Skrypt codziennie pobiera parametry fizyczne asteroid z API NASA, przetwarza je i ładuje do relacyjnej bazy danych, budując zbiór pod analizę i wizualizację.
